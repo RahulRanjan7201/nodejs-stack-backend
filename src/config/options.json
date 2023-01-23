@@ -1,0 +1,7 @@
+{
+    "stacksize": 5,
+    "stack":[],
+    "server" : {
+        "port":3000
+    }
+}
